@@ -330,10 +330,10 @@ View Orders: Create a view component where the admin can look into the new and o
 
 ## Application Workflow
 
-Admin Flow (Click to see the output)
-> <https://www.figma.com/proto/tGEiGrLPlwEgBAe3bIMOL1/Dress-Store-Admin-Flow?node-id=1%3A2&viewport=500%2C339%2C0.14724864065647125&scaling=scale-down>
+Admin flow
+> https://www.figma.com/proto/KUXrU8hz3tRaWNiGQEAoqR/Music-Instrument-Store-Admin-Flow?node-id=1%3A2&viewport=439%2C389%2C0.15327335894107819&scaling=scale-down
 
-User Flow (Click to see the output)
-> <https://www.figma.com/proto/2LVqXNLXuRt3uPuunT9am9/Dress-Store-User-Flow?node-id=1%3A78&viewport=364%2C-154%2C0.27381566166877747&scaling=scale-down>
+User Flow
+> https://www.figma.com/proto/NjDlEqLaTxnqQ1Uwl5I4Yk/Music-Store-User-Flow?node-id=1%3A2&viewport=383%2C-83%2C0.27936112880706787&scaling=min-zoom
 
 Happy Coding Neos👍
