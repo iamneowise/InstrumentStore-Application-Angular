@@ -1,10 +1,10 @@
 ![](https://bn1305files.storage.live.com/y4mzAYxmbIIC_nmvccsxcMxIn078c3vVvo2hjmltqaoRhEtWlZnI3JdbZUICY8PZjRjDjzi6d47a7zaC2NaTN9AaLfskm8L0JfZYbvlVV9x9FK4MITpOUlH2De2JA_E0Cx8wETaL1rGxOma5KhqurIUC9RHIZDz5CTBIExxgZ37CNy0EUsamWWWsrg03qQy3hRe?width=369&height=137&cropmode=none)
-# iamneo | Ecommerce | BookHub | Angular-Springboot-Fullstack-App
+# iamneo | Ecommerce | Melody Falls | Angular-Springboot-Fullstack-App
 
 
 **Objective:**
 
-BookHub is an online application to be built as a product that can be catering to various customers who requires purchasing books.
+Melody Falls is an online web application to be built as a product that can be catering to various customers who requires purchasing musical instruments.
 
 **Users of the System:**
 
@@ -13,7 +13,7 @@ BookHub is an online application to be built as a product that can be catering t
 
 **Functional Requirements:**
 
-- Build an application that customer can access and purchase books online.
+- Build an application that customer can access and purchase musical instruments online.
 - The application should have signup, login, profile, dashboard page, and product page.
 - This application should have a provision to maintain a database for customer information, order information and product portfolio.
 - Also, an integrated platform required for admin and customer.
@@ -155,7 +155,7 @@ Signup: Design a signup page component where the new customer has options to sig
   2. API endpoint Url: [http://localhost:4200/signup](http://localhost:4200/signup)
   3. Output screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4mo8qjJAmXEbrPD7XDdYLshRCLMmgqzBIy7B2LZD3bWtkmqAJNfZ7OCtyOtxzlN7COcv3u74NUvwCceX8PXu8KiYS6Gelz5qyY0QLeNtQhS3HOvAy9ypbpZ0nAXGRC8SR9IsC14zzyknimaecy3vUIf0ZtMMb9e3OG2bcsmJ6sGpl2q8-TVAZ4VRzAGGHtUCdB?width=1483&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mIDAmDpNZTeAB2L_qcNofeqA-3AqCIlEAj6r1X48QgRbxcrdaYzvrxHDpz9_riRP-CE1qAqHnqWjIuXDhqNXyGbpKGKYEuD4llzqOGzbdXyZ_gW3PZSNQb8LAZQ8skzEykQyYOVlJ4vBvaC5VCRkFmSebnD8-xFA6mLHUkTrnl1yc6QVPmz2loEk3EWhYVzn2?width=3000&height=1688&cropmode=none)
 
 ```
 Login: Design a login page component where the existing customer can log in using the registered email id and password.
@@ -165,7 +165,7 @@ Login: Design a login page component where the existing customer can log in usin
   2. API endpoint Url: [http://localhost:4200/login](http://localhost:4200/login)
   3. Output screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4m97q5iBktyEXc3dNhediD9QconKcfwHnWKvFFD-pYuUhHtvFGM_p26q9hSIAtSyCkghNYmJEUrUYwQGfH2y-hbFwwP9_GlVJk0tUi4twyZF3_NDDw3unsIDLv3pDviI2LtKW-DXJUA-S_Klc1Aaz3bGbLyeraITJcCW81DMJefyhPBfNrtoZR5gqXYgtpxylD?width=1440&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mDw46Sjz3OGMTmMGjYfd9YIX1SpDTNyI2QdvjJvY7rs0U4wArRfvYV8sDlqD799fS47wNcKlbB3Ix2x92VPpd9Z-rCjw2bGyKmeJmTA9m0zDJX3BRyW2siURpLLxWDNC6885-1hYqcQ96DYUy8sypL-kaM7e3bnP3Vdi2afXoNrbjHUDi_omH3czV-az2es91?width=3000&height=1688&cropmode=none)
 
 ```
 Dashboard / Home: Design a home page component that has the navigation bar and lists all the available products as grid elements with appropriate filter options.
@@ -176,8 +176,8 @@ Dashboard / Home: Design a home page component that has the navigation bar and l
   2. API endpoint Url: [http://localhost:4200/](http://localhost:4200/login)home
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4m-NowdEPP-TKvifaKWnFAm0ca2T9eKpSaEF6g2J5thI3hOX_ood8IDhQGKWFLDkJvalvOPksB9SaebL_lvEEmUJjSr05OxFoAWloeECBi7R2z-RleT2FqIK9ZkWPVVTtg_9MQ45kyFieWJ_KeNdsZqw33xKrEleRopSDsAF-s-1doOSgjewoF0ZqjQt_TXVHD?width=1440&height=1024&cropmode=none)
-
+![](https://bn1305files.storage.live.com/y4mPytj7gE5XZvquYCUFMAqEzf7wO0XX3RMX0NitQ8gpZUOGWqm9xlrhLyUN7wZD7zcbkt6Q5pUL5dvThIinaMrfEHxPUyNBstWCeSiEwVWYnDvY3Nus0s51O6k_N55DwGcXGwrgg-onk3zITTV68EojQNtVGo0p6WClQxMrX4jj1T217OfIieNNjyib385Jnam?width=3000&height=1688&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mSl2Mj9jnlajF_nL3IoG8vtnDcI6Ja792EaOj4ta0Q63gQwlZciuJ-Wwx5gGznJYghrwaCTskUPWrQifnPb9RSaGmOFS_s6HncDk4AUA2hwQIUs0lR--gDhhQZ-v7doJQbN5BDVRAfNhmngFStjyahlU2H7f4nLR8VcbbPsLm3FyTfNeZFXcSzcT0sCzVh2Wd?width=3000&height=1688&cropmode=none)
 ```
 Cart and Orders: Design a cart component and order component where we can see the cart items and see the items ordered after placing an order.
   1. Ids
@@ -187,7 +187,8 @@ Cart and Orders: Design a cart component and order component where we can see th
   3. API endpoint Url: [http://localhost:4200/orders](http://localhost:4200/orders)
   4. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mtokE9aeMLgL_X03F3pCrwXDJlRWuSmsRkv7-MmiPbo2ipdUtKeciqXYE2V3GNBj5ptQKHVuocm54UukqEVzztu4FHjNMZMCQWSR69drJau19WKzG5z41-7kLBiGzeKLEWBzZQdFrqLzgIbAr1nBRenPWYcr5TXxpcnyLu-_T-d49DLuhUjap_VpHV6rsVejh?width=1440&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mhEvAf5Ps-16ZLcuRe_NHLyA_8i8qh-SG4CBMyNSHjeXnQMn6KEZ4g5f9Jp1VKLJQm5rd7GZzyDpqbCJoGWakOYN521fjHdQ_BMGOYV14cLmgp9B2-HsSOWaXU8Wp7Sqr1iGKmG3Nkfr36R_0gjA79AMO5v336f7_Obq4CdqGLwUVkcQNgrW2AxJgZCx94rX_?width=3000&height=1688&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mKmwgVInvUVcUadItsNVz5pKXrufu8nJ6HJKlhcqiVEZAHDZ69rGT6P3-BdGoKche17Ukklt4alJ5GFeWaSrpdL-UhPHp9yWZTay7xxwbVDq7NCNRxQHfpB5-TsRXBKsWKv8pBcBYDm38f1npyVlIOxmIc68zBZ_qsndGI25Xt1Nzfwyst5cU1xDVPnjNW2Qq?width=3000&height=1688&cropmode=none)
 
 **Admin:**
 
@@ -199,7 +200,7 @@ Admin Dashboard: Design a dashboard page where the list of products is displayed
   2. API endpoint Url: [http://localhost:4200/admin](http://localhost:4200/admin)
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4md5PTyC9iVTMWaqIoTZb5CwuLVW2JJFWFwODs24C6qUrudiHhnvo3qIRSdTmirEh-B9706WnpIhnV2F4ZwCHpjxILaOIaWhT39rbKnHC090NfKbUSElMFnPVpxRumdDrUV5VW0EAWzLeQW6XFu5VPEfOh8vZEuhAd7wfTcp39umCT3UIEGorB94qq_Sm1ieu8?width=1440&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4m4r-pl-iUJScf3F96mOU_bBLk6oAsc6qvcZgWxhmE4bCbOtqCaJ5UCwCDdI8tl4k05LBBV-0MWLu35a9eYvcwLrWrGYPAEDeqzoVFu6GQnHHB-mLd5VohtwHyTm5w-EGlQiuZE_4yDcs5jpA2nEN9bkac7PaUs_w3Ttfxx1a2yOpzPKQyzzSn5fiFpgtQnIYN?width=3000&height=1688&cropmode=none)
 
 ```
 Admin Navigation: Design a navigation component that can navigate to products and orders.
@@ -209,7 +210,7 @@ Admin Navigation: Design a navigation component that can navigate to products an
     3. logoutButton
   2. Screenshot:
 ```
-![](https://bn1305files.storage.live.com/y4mtGZ-e3vN1PeMGtGqbWtsu2wVDnDkWpao7p_KfcfvCnxK0rD-PJC-Sl0Yy4-mtXEFfMiLxwEbLn-2M3JbjT9WrsNtrKBgVxpQsbsukka4ITqaHlrAwTYPI3K67pZePCTXUPXDlimV4RIaDhiDZW93zACcFbLrj79QSWTiD2WiSCUNeGD6-IqO1R13oXI1Xc4w?width=1424&height=495&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mim-rLOFiERB2mQmW_p9qEH5pkyBllPQfftKPVLcfjJvTR-Xr14s0IjtzrNMHa3-xvRMaXJY84dUlcg2QW69cvldt2lwJ-PcIbHixKMLXsUqgAU3o1nTHL6EtQiO4-KMIqKzH0SgNUQeNmA8qFCA8ZJmHI2Q16az9iL21YpmLChX9RbuHdGYFCO5HdmcBR9O5?width=3000&height=1688&cropmode=none)
 
 ```
 Add Product: Design an add product component in which the admin can add new products to the inventory.
@@ -224,7 +225,7 @@ Add Product: Design an add product component in which the admin can add new prod
   2. API endpoint Url: [http://localhost:4200/ad](http://localhost:4200/ad)dProduct
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mWhv2Chl-OO053r-tB5mQgl1lMQ5ybM53P2ndlmvidpaguzAefW8TsKH5HGwE7MnoO3mxd04lvaVhcXSuF8zqmOYsyJ42RqrGFiYYATPji1qCIJiJKRdsAmZyykjijMDpRNhvLVGLeniyxLzmzBZqwpo7DDZeg5F4orm3DMGcp3zotlbXIMz_y-kyEtOCoeAY?width=1440&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mZiHS8TjaEHN2SD0xqxYPBuxJWSj-jdy8dgbbnwxXG4cDsWQiVo-9vFAVb4Dq-CpTt1MKynrtbS0ZrJx6V7VloOC9hXRVjkuTNOdBBoF8P7VbZzoO1l0SfCwEQlKaF1V_6unICuwdqTQfmE_tqcQLP6y1RUwobg5BnPdd4CRXHJ27-R4i5azX5NJQ9soi_Ksm?width=3000&height=1688&cropmode=none)
 
 ```
 View Orders: Create a view component where the admin can look into the new and old orders.
@@ -233,7 +234,7 @@ View Orders: Create a view component where the admin can look into the new and o
   2. API endpoint Url: [http://localhost:4200/admin](http://localhost:4200/admin)/orders
   3. Screenshot
 ```
-![](https://bn1305files.storage.live.com/y4mfiWkNlXt1Gzs43RrVCRIeN7zGwV2M20NbOzrMAWF0SGNcu7htvQBdCyNFkoRwID7XR4TXVxZop04Sg9qc723q0TD5wA6f2vZQqipIUVz8ozT7jbt5cdcMbHUHDXH15p7A-sUuxXr-myZ-DzKxMaGZS94eCMXwJPXHxv0iNfaXA5q3XME_P8pmSpD92DWlu_Q?width=1440&height=1024&cropmode=none)
+![](https://bn1305files.storage.live.com/y4mgKM358jZXR4N1Ibf_ZBUeJNilT3fW3ZBLDajXhUHcRC_oBI-eA3RvUbVg_v5_gggTsh4oZQuT_Ya_LaWRQ0DWbuYeajdQBKA1Aw35UDKwDD7QHa2rL1G409qrTwPeL-8RSc2uziCPbnkVhi7EhF0vNAequNSDSmIDaWazjLyqF55Elz244zpf3sb3_0pvXWk?width=3000&height=1688&cropmode=none)
 
 ## Backend
 
@@ -326,4 +327,13 @@ View Orders: Create a view component where the admin can look into the new and o
     2. saveProduct(Stringid): This method helps to save the cart items as an order.
     3. placeOrder(OrderModelorder): This method helps to place an order by the customer.
 ```
+
+## Application Workflow
+
+Admin Flow (Click to see the output)
+> <https://www.figma.com/proto/tGEiGrLPlwEgBAe3bIMOL1/Dress-Store-Admin-Flow?node-id=1%3A2&viewport=500%2C339%2C0.14724864065647125&scaling=scale-down>
+
+User Flow (Click to see the output)
+> <https://www.figma.com/proto/2LVqXNLXuRt3uPuunT9am9/Dress-Store-User-Flow?node-id=1%3A78&viewport=364%2C-154%2C0.27381566166877747&scaling=scale-down>
+
 Happy Coding Neos👍
